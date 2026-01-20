@@ -1,0 +1,2 @@
+# KAKA-
+SVG storage
